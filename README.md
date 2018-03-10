@@ -1,8 +1,8 @@
 # React_Bootcamp-Week-1
 
-## Break the App into Components
-
 Week 1 Curriculum for React Bootcamp.
+
+## Break the App into Components
 
 ## Break the app into components
 - Map out the the component structure of the app by examining the app’s working UI... Visual components often map tightly to their respective React components.
